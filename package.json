@@ -1,0 +1,17 @@
+{
+  "name": "nerualnet",
+  "version": "1.0.0",
+  "description": "General Neural Net",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js",
+    "test": "node app.js"
+  },
+  "author": "Tyranicangel",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^3.16.2",
+    "mysql2": "^1.4.1",
+    "sequelize": "^4.7.2"
+  }
+}
